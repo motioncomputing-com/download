@@ -1,7 +1,8 @@
 # Motion Computing – Intel Driver Repository
 Welcome to the official Motion Computing Intel Driver repository. This repository provides official Intel driver packages for Motion Computing devices to ensure optimal performance, stability, and long-term support.
 
-<img width="322" height="120" alt="Motion-Computing-logo-white-1" src="https://github.com/user-attachments/assets/9aff9906-24cd-4455-9319-8af16e293993" />  
+<img width="322" height="120" alt="Motion-Computing-logo-white-1" src="https://github.com/user-attachments/assets/ae9ca44b-54d8-46aa-adad-455e4ac4301c" />
+
 
 ## Official Intel System Manufacturer
 
@@ -35,4 +36,5 @@ Phone: (+1) 800-355-1131
 ## Contributing
 
 Please see [`CONTRIBUTING.md`](./CONTRIBUTING.md) for details on reporting issues or suggesting improvements.
+
 
